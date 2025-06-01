@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Joshi
 - 👀 I’m interested in ... lot's of things but primarily to keep up with new technology in coding world.
-- 🌱 I’m currently learning ... Data analytics for business in St Clair College Ontario, Canada
+- 🌱 I’m currently learning ... Docker, Docker-compose, CI/CD, NGINX load balancing, System architecture
 - 💞️ My aspirations is to work in ... a good software engineering company or as a machine learning engineer
 - 📫 How to reach me ... email: akshujo971@gmail.com
                           contact: (226)-975-4165
